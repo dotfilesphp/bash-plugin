@@ -1,5 +1,5 @@
 {
-    "name": "dotfiles/bash",
+    "name": "dotfiles/bash-plugin",
     "description": "Dotfiles Bash Plugin",
     "type": "dotfiles-plugin",
     "license": "MIT",
